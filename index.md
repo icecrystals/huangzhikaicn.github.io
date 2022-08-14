@@ -2,7 +2,7 @@
 
 I was born in Xianyang, China in 1997. I obtained my M.Sc. and B.Eng. from ETH Zurich and Xi’an Jiaotong University, respectively. I am a researcher working in cutting-edge integrated circuits and sensor technology. My research interests include mixed-signal integrated circuit design, integrated bioelectronics, neuromorphic computing and machine learning. I strive to make innovations that can improve the walfare of human and society.
 
-[GoogleScholar](https://scholar.google.com/citations?hl=en&user=SiProigAAAAJ) / [ResearchGate](https://www.researchgate.net/profile/Zhikai-Huang) / [CV]()
+[GoogleScholar](https://scholar.google.com/citations?hl=en&user=SiProigAAAAJ) / [ResearchGate](https://www.researchgate.net/profile/Zhikai-Huang) / [CV]() / [LinkedIn](https://www.linkedin.com/in/cnzk/)
 
 
 ### News
