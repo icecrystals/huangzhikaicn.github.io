@@ -14,7 +14,7 @@ I was born in Xianyang, China in 1997. I obtained my M.Sc. and B.Eng. from ETH Z
   -  Thesis: A Continuous-Time Input Pipelined SAR ADC With Predictive Offset Generation
 - Xi'an Jiaotong University, Bachelor of Electronics Engineering, 2015-2019
   -  Thesis: Digital Back-End Design of a Battery State-of-Charge Estimation Algorithm Without Current Detection
-- McGill University, MITACS Visiting Scholar
+- McGill University, MITACS Visiting Scholar, 2018.06-09
   - Topics: Measurement of Thermal Noise Floor in Nitrogen Vacancy Centers
 
 ### Publications
