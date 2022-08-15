@@ -1,11 +1,12 @@
 ## Zhikai Huang 黄志凯
 
 
-<img src="IMG_0501.JPG" alt="drawing" width="80"/>
 
-[GoogleScholar](https://scholar.google.com/citations?hl=en&user=SiProigAAAAJ) / [ResearchGate](https://www.researchgate.net/profile/Zhikai-Huang) / [ORCID](https://orcid.org/0000-0002-4024-6668) / [CV]() / [LinkedIn](https://www.linkedin.com/in/cnzk/)
+
 
 I was born in [Xianyang](https://en.wikipedia.org/wiki/Xianyang), one of the most ancient cities in China. I obtained my M.Sc. in biomedical engineering and B.Eng. in electronics from [ETH Zurich](https://ethz.ch/en.html) and [Xi’an Jiaotong University](http://en.xjtu.edu.cn/), respectively. I am a researcher working in cutting-edge integrated circuits and sensor technology. My research interests include mixed-signal integrated circuit design, integrated bioelectronics, neuromorphic computing and machine learning. I strive to make innovations that can improve the walfare of human and society.
+
+[GoogleScholar](https://scholar.google.com/citations?hl=en&user=SiProigAAAAJ) / [ResearchGate](https://www.researchgate.net/profile/Zhikai-Huang) / [ORCID](https://orcid.org/0000-0002-4024-6668) / [CV]() / [LinkedIn](https://www.linkedin.com/in/cnzk/)
 
 
 
