@@ -13,7 +13,7 @@ I was born in [Xianyang](https://en.wikipedia.org/wiki/Xianyang), one of the mos
 
 ### News
 
-- 2022.06.29 My master thesis *A Continuous-Time Input Pipelined SAR ADC with Predictive Offset Generation* conducted at Prof. Taekwang Jang's lab received a grade of 5.75/6, the second-highest possible grade at ETH Zurich.
+- 2022.06.29 My master thesis *A Continuous-Time Input Pipelined SAR ADC with Loop-Embedded Predictive Offset Generation* conducted at Prof. Taekwang Jang's lab received a grade of 5.75/6, the second-highest possible grade at ETH Zurich.
 - 2022.04.28 My co-author paper on event-based digital accelerator is accepted in DATE 2022 and is already online, see [IEEE Xplore](https://ieeexplore.ieee.org/document/9774552/).
 
 
