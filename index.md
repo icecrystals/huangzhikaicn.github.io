@@ -19,9 +19,9 @@ I was born in [Xianyang](https://en.wikipedia.org/wiki/Xianyang), one of the mos
 
 ### Education
 
-- ETH Zurich, Master of Science Biomedical Engineering, 2019-2022
+- Eidgenössische Technische Hochschule Zürich (ETH Zurich), MSc Biomedical Engineering, 2019-2022
   -  Thesis: A Continuous-Time Input Pipelined SAR ADC With Predictive Offset Generation
-- Xi'an Jiaotong University, Bachelor of Electronics Engineering, 2015-2019
+- Xi'an Jiaotong University, BEng Microelectronics, 2015-2019
   -  Thesis: Digital Back-End Design of a Battery State-of-Charge Estimation Algorithm Without Current Detection
 - McGill University, MITACS Visiting Scholar, 2018.06-09
   - Topics: Measurement of Thermal Noise Floor in Nitrogen Vacancy Centers
