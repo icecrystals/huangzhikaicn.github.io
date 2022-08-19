@@ -19,7 +19,7 @@ I was born in [Xianyang](https://en.wikipedia.org/wiki/Xianyang), one of the mos
 
 ### Education
 
-- Swiss Federal Institute of Technology, Zurich, Master of Science Biomedical Engineering, 2019-2022
+- Swiss Federal Institute of Technology in Zurich, Master of Science Biomedical Engineering, 2019-2022
   -  Thesis: A Continuous-Time Input Pipelined SAR ADC With Predictive Offset Generation
 - Xi'an Jiaotong University, Bachelor of Electronics Engineering, 2015-2019
   -  Thesis: Digital Back-End Design of a Battery State-of-Charge Estimation Algorithm Without Current Detection
