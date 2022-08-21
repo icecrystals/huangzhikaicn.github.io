@@ -15,17 +15,13 @@
 - 麦吉尔大学, MITACS 访问学者, 2018.06-09
   -  研究主题: Measurement of Thermal Noise Floor in Nitrogen Vacancy Centers
 
-### 论文发表
-
-- Alfio Di Mauro, Arpan Suravi Prasad, **Zhikai Huang**, Matteo Spallanzani, Francesco Conti, Luca Benini. SNE: an Energy-Proportional Digital Accelerator for Sparse Event-Based Convolutions. DATE 2022.
-- **Zhikai Huang**, Hesam Omdeh Ghiasi, Taekwang Jang. A Continuous-Time Input Pipelined SAR ADC With Predictive Offset Generation. In preparation.
-
 
 ### 联系
 
 - 电子邮件: hzhikai97@gmail.com
 - 手机号码: +86 13335427158
 
+更多内容请访问[英文版主页](https://huangzhikai.cn)。
 
 ---
 
