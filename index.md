@@ -79,7 +79,7 @@ Sensors Research Group, ETH Zurich | Advisor: Prof. Tobi Delbruck | 2021.03-2021
 
 ### Resources
 
-- [Frequenctyly asked analog design questions](https://docs.google.com/spreadsheets/d/1O-O67oH6e4RI_S1r8WHXHJLtLszwP1rmUe6_bITMVfM/edit?usp=sharing)
+- [Frequenctyly asked analog design questions (in Chinese)](https://docs.google.com/spreadsheets/d/1O-O67oH6e4RI_S1r8WHXHJLtLszwP1rmUe6_bITMVfM/edit?usp=sharing)
 
 ---
 
