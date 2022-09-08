@@ -6,16 +6,6 @@
 [GoogleScholar](https://scholar.google.com/citations?hl=en&user=SiProigAAAAJ) / [ResearchGate](https://www.researchgate.net/profile/Zhikai-Huang) / [ORCID](https://orcid.org/0000-0002-4024-6668) / [CV]() / [LinkedIn](https://www.linkedin.com/in/cnzk/) / [英文版主页](https://huangzhikai.cn)
 
 
-### 教育经历
-
-- 瑞士联邦理工学院（苏黎世), 生物医学工程硕士, 2019-2022
-  -  毕业论文: A Continuous-Time Input Pipelined SAR ADC With Predictive Offset Generation
-- 西安交通大学, 微电子科学与工程学士, 2015-2019
-  -  毕业论文: Digital Back-End Design of a Battery State-of-Charge Estimation Algorithm Without Current Detection
-- 麦吉尔大学, MITACS 访问学者, 2018.06-09
-  -  研究主题: Measurement of Thermal Noise Floor in Nitrogen Vacancy Centers
-
-
 ### 联系
 
 - 电子邮件: hzhikai97@gmail.com
