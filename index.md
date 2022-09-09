@@ -1,6 +1,6 @@
 ## Zhikai Huang 黄志凯
 
-I was born in [XianYang](https://en.wikipedia.org/wiki/Xianyang), one of the most ancient cities in China. I obtained my M.Sc. in biomedical engineering and B.Eng. in microelectronics from [ETH Zurich](https://ethz.ch/en.html) and [Xi’an Jiaotong University](http://en.xjtu.edu.cn/), respectively. I am a researcher working in cutting-edge sensor technology (device, process, fabrication) as well as interface circuits. I strive to make innovations that can improve the walfare of human and society.
+I am an incoming PhD student at Department of Electrical Engineering and Information Technology at [ETH Zurich](https://ethz.ch/en.html), after receiving my M.Sc. in biomedical engineering in the same university. Prior that, I obtained my B.Eng. in microelectronics from [Xi’an Jiaotong University](http://en.xjtu.edu.cn/). I am doing research in cutting-edge biomedical sensors (device, process, fabrication) as well as related interface circuits. I strive to make innovations that can improve the walfare of human and society.
 
 [GoogleScholar](https://scholar.google.com/citations?hl=en&user=SiProigAAAAJ) / [ResearchGate](https://www.researchgate.net/profile/Zhikai-Huang) / [ORCID](https://orcid.org/0000-0002-4024-6668) / [LinkedIn](https://www.linkedin.com/in/cnzk/) / [中文版网站](https://huangzhikai.cn/index-cn.html)
 
@@ -11,8 +11,10 @@ I was born in [XianYang](https://en.wikipedia.org/wiki/Xianyang), one of the mos
 
 ### Publications
 
-- Alfio Di Mauro, Arpan Suravi Prasad, **Zhikai Huang**, Matteo Spallanzani, Francesco Conti, Luca Benini. SNE: an Energy-Proportional Digital Accelerator for Sparse Event-Based Convolutions. DATE 2022.
-- **Zhikai Huang**, Hesam Omdeh Ghiasi, Taekwang Jang. A Continuous-Time Input Pipelined SAR ADC With Predictive Offset Generation. In preparation.
+- *SNE: an Energy-Proportional Digital Accelerator for Sparse Event-Based Convolutions.*, Design automation and test in europe (DATE) 2022
+  - Alfio Di Mauro, Arpan Suravi Prasad, **Zhikai Huang**, Matteo Spallanzani, Francesco Conti, Luca Benini.
+- *A Continuous-Time Input Pipelined SAR ADC With Predictive Offset Generation*, In preparation.
+  - **Zhikai Huang**, Hesam Omdeh Ghiasi, Taekwang Jang. 
 
 ### Experience
 - Integrated Systems Lab, ETH Zürich / Advisor: Prof. Taekwang Jang / 2021.06-2022.05
