@@ -13,7 +13,7 @@ I am an incoming PhD student at Department of Electrical Engineering and Informa
 
 - *SNE: an Energy-Proportional Digital Accelerator for Sparse Event-Based Convolutions.*
   - Alfio Di Mauro, Arpan Suravi Prasad, **Zhikai Huang**, Matteo Spallanzani, Francesco Conti, Luca Benini.
-  - Design automation and test in europe (DATE) 2022
+  - 2022 Design, Automation & Test in Europe Conference & Exhibition (DATE), 825-830
 
 - *A Continuous-Time Input Pipelined SAR ADC With Predictive Offset Generation*
   - **Zhikai Huang**, Hesam Omdeh Ghiasi, Taekwang Jang. 
