@@ -14,6 +14,16 @@ I was born in [XianYang](https://en.wikipedia.org/wiki/Xianyang), one of the mos
 - Alfio Di Mauro, Arpan Suravi Prasad, **Zhikai Huang**, Matteo Spallanzani, Francesco Conti, Luca Benini. SNE: an Energy-Proportional Digital Accelerator for Sparse Event-Based Convolutions. DATE 2022.
 - **Zhikai Huang**, Hesam Omdeh Ghiasi, Taekwang Jang. A Continuous-Time Input Pipelined SAR ADC With Predictive Offset Generation. In preparation.
 
+### Experience
+- Integrated Systems Lab, ETH Zürich / Advisor: Prof. Taekwang Jang / 2021.06-2022.05
+  - Designed low-power low-noise analog front-end, e.g., LNA, VGA and ADC. 
+- Sensors Research Group, ETH Zurich / Advisor: Prof. Tobi Delbruck / 2021.03-2021.6
+  - Designed an analog mutiply-acumulate unit for neural Network Acceleration
+- Digital Circuits Lab, ETH Zurich / Advisor: Prof. Luca Benini / 2020.03-2020.6
+  - Designed spiking neural network algorithms dedicated for regression tasks.
+
+
+
 ### Awards
 
 - China Goverment Scholarship for Overseas Visiting (MITACS & CSC, 2018)
