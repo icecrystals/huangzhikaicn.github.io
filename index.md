@@ -11,10 +11,14 @@ I am an incoming PhD student at Department of Electrical Engineering and Informa
 
 ### Publications
 
-- *SNE: an Energy-Proportional Digital Accelerator for Sparse Event-Based Convolutions.*, Design automation and test in europe (DATE) 2022
+- *SNE: an Energy-Proportional Digital Accelerator for Sparse Event-Based Convolutions.*
   - Alfio Di Mauro, Arpan Suravi Prasad, **Zhikai Huang**, Matteo Spallanzani, Francesco Conti, Luca Benini.
-- *A Continuous-Time Input Pipelined SAR ADC With Predictive Offset Generation*, In preparation.
+  - Design automation and test in europe (DATE) 2022
+
+- *A Continuous-Time Input Pipelined SAR ADC With Predictive Offset Generation*
   - **Zhikai Huang**, Hesam Omdeh Ghiasi, Taekwang Jang. 
+  - In preparation.
+
 
 ### Experience
 - Integrated Systems Lab, ETH Zürich / Advisor: Prof. Taekwang Jang / 2021.06-2022.05
