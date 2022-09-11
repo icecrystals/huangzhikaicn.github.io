@@ -13,7 +13,7 @@ I am an incoming PhD student at Department of Electrical Engineering and Informa
 ### Experiences
 - Integrated Devices Electronics And Systems (IDEAS) Group, ETH Zürich / Advisor: Prof. Hua Wang / 2022.09-present
   - Developing next-generation microelectrode array (MEA) for biomedical applications
-- Integrated Systems Lab, ETH Zürich / Advisor: Prof. Taekwang Jang / 2021.06-2022.05
+- Integrated Systems Lab, ETH Zürich / Advisor: Prof. Taekwang Jang / 2021.06-2022.06
   - Designed low-power low-noise analog front-end, including LNA, VGA and ADC, for neural recording and acoustic applications
 - Sensors Research Group, ETH Zürich / Advisor: Prof. Tobi Delbruck / 2021.03-2021.06
   - Designed an analog mutiply-acumulate unit (MAC) suitable for power and area efficient neural network acceleration
