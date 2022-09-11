@@ -10,16 +10,16 @@ I am an incoming PhD student at Department of Electrical Engineering and Informa
 - 2022.04.28 My co-author paper on event-based digital accelerator is accepted in DATE 2022 and is already online, see [IEEE Xplore](https://ieeexplore.ieee.org/document/9774552/).
 
 
-### Experience
-- Integrated Devices Electronics And Systems (IDEAS) Group / Advisor: Prof. Hua Wang / 2022.09-present
+### Experiences
+- Integrated Devices Electronics And Systems (IDEAS) Group, ETH Zürich / Advisor: Prof. Hua Wang / 2022.09-present
   - Developing next-generation microelectrode array (MEA) for biomedical applications
 - Integrated Systems Lab, ETH Zürich / Advisor: Prof. Taekwang Jang / 2021.06-2022.05
   - Designed low-power low-noise analog front-end, including LNA, VGA and ADC, for neural recording and acoustic applications
-- Sensors Research Group, ETH Zurich / Advisor: Prof. Tobi Delbruck / 2021.03-2021.06
+- Sensors Research Group, ETH Zürich / Advisor: Prof. Tobi Delbruck / 2021.03-2021.06
   - Designed an analog mutiply-acumulate unit (MAC) suitable for power and area efficient neural network acceleration
-- Interface Group, University of Zurich / Advisor: Dr. Diane de Zélicourt / 2020.09-2020.12
+- Interface Group, University of Zürich / Advisor: Dr. Diane de Zélicourt / 2020.09-2020.12
   - Prototyped a aegative pressure wound therapy (NPWT) device for early infection detection
-- Digital Circuits Lab, ETH Zurich / Advisor: Prof. Luca Benini / 2020.03-2020.06
+- Digital Circuits Lab, ETH Zürich / Advisor: Prof. Luca Benini / 2020.03-2020.06
   - Designed spiking neural network algorithms dedicated for angular velocity regression tasks from event-cameras
 
 ### Publications
