@@ -1,6 +1,6 @@
 ## Zhikai Huang 黄志凯
 
-I am an incoming PhD student at Department of Electrical Engineering and Information Technology at [ETH Zurich](https://ethz.ch/en.html), after receiving my M.Sc. in biomedical engineering in the same university. Prior that, I obtained my B.Eng. in microelectronics from [Xi’an Jiaotong University](http://en.xjtu.edu.cn/). I am doing research in cutting-edge biomedical sensors (device, process, fabrication) as well as related interface circuits. I strive to make innovations that can improve the walfare of human and society.
+I am an incoming PhD student at Department of Electrical Engineering and Information Technology at [ETH Zurich](https://ethz.ch/en.html), after receiving my M.Sc. in biomedical engineering in the same university. Prior that, I obtained my B.Eng. in microelectronics from [Xi’an Jiaotong University](http://en.xjtu.edu.cn/). I am doing research in cutting-edge process, device and systems for biomedical applications. I strive to make innovations that can improve the walfare of human and society.
 
 [GoogleScholar](https://scholar.google.com/citations?hl=en&user=SiProigAAAAJ) / [ResearchGate](https://www.researchgate.net/profile/Zhikai-Huang) / [ORCID](https://orcid.org/0000-0002-4024-6668) / [LinkedIn](https://www.linkedin.com/in/cnzk/) / [中文版网站](https://huangzhikai.cn/index-cn.html)
 
@@ -46,6 +46,6 @@ I am an incoming PhD student at Department of Electrical Engineering and Informa
 
 ---
 
-[Github Pages](https://github.com/huangzhikaicn/huangzhikaicn.github.io)
+[Github Pages (12459xxx..)](https://github.com/huangzhikaicn/huangzhikaicn.github.io)
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=365&t=n&d=Tis9kv6Tcc0k1gk9_Pnst9_vrQEZqz_bKSidBzrhin8"></script>
