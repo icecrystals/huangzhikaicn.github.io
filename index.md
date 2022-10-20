@@ -42,6 +42,10 @@ I am an incoming PhD student at Department of Electrical Engineering and Informa
 Please visit
 [https://i.dayday.plus](https://i.dayday.plus)
 
+### Hobbies
+Please visit
+[https://hao.ink](https://hao.ink)
+
 ### Contact
 
 - E-mail: hzhikai97@gmail.com
