@@ -40,7 +40,7 @@ I am an incoming PhD student at Department of Electrical Engineering and Informa
 
 ### Blogs
 Please visit
-[i.dayday.plus](i.dayday.plus)
+[https://i.dayday.plus](https://i.dayday.plus)
 
 ### Contact
 
