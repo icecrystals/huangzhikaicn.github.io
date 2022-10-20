@@ -23,7 +23,7 @@ I am an incoming PhD student at Department of Electrical Engineering and Informa
   - Designed spiking neural network algorithms dedicated for angular velocity regression tasks from event-cameras
 - Power Management IC Lab, Xi'an Jiaotong U / Advisor: Prof. Hongyi Wang / 2019.03-2019.06
   - Digiatl back-end design of a batter state-of-charge (SoC) algorithm without current detection
-- Quantum Quantum Ptics & Sensing Lab, McGill U / Advisor: Prof. Jack C. Sankey / 2018.03-2018.06
+- Quantum Quantum Optics & Sensing Lab, McGill U / Advisor: Prof. Jack C. Sankey / 2018.03-2018.06
   - A magnetic and Johnson noise detection with a spectrum analyze method. 
 - Microwave Device and Circuits Lab, Xi'an Jiaotong U / Advisor: Ming Ye / 2018.02-2018.06
   - Implemented a nondestructive microwave-based sheet resistance measurement with coplanar waveguide.
