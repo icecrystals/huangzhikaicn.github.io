@@ -11,6 +11,9 @@ I am an incoming PhD student at Department of Electrical Engineering and Informa
 
 
 ### Experiences
+
+*I enjoy every moment I spent inside the labs. These moments become part of my life.*
+
 - Integrated Devices Electronics And Systems (IDEAS) Group, ETH Zürich / Advisor: Prof. Hua Wang / 2022.09-present
   - Developing next-generation microelectrode array (MEA) for biomedical applications
 - Integrated Systems Lab, ETH Zürich / Advisor: Prof. Taekwang Jang / 2021.06-2022.06
