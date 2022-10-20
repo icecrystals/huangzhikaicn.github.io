@@ -38,10 +38,15 @@ I am an incoming PhD student at Department of Electrical Engineering and Informa
 - Samsung Scholarship (Xi’an Jiaotong University, 2018)
 - Excellent Student Award (Xi’an Jiaotong University, 2017)
 
+### Blogs
+Please visit
+[i.dayday.plus](i.dayday.plus)
+
 ### Contact
 
 - E-mail: hzhikai97@gmail.com
 - Phone: +86 13335427158
+
 
 
 ---
