@@ -28,7 +28,7 @@ I am an incoming PhD student at Department of Electrical Engineering and Informa
   - Digiatl back-end design of a batter state-of-charge (SoC) algorithm without current detection
 - Quantum Optics & Sensing Lab, McGill U / Advisor: Prof. Jack C. Sankey / 2018.03-2018.06
   - A magnetic and Johnson noise detection with a spectrum analyze method. 
-- Microwave Device and Circuits Lab, Xi'an Jiaotong U / Advisor: Ming Ye / 2018.02-2018.06
+- Microwave Device and Circuits Lab, Xi'an Jiaotong U / Advisor: Prof Ming Ye / 2018.02-2018.06
   - Implemented a nondestructive microwave-based sheet resistance measurement with coplanar waveguide.
 
 ### Publications
