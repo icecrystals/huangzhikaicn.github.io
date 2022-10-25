@@ -1,6 +1,6 @@
 ## Zhikai Huang 黄志凯
 
-I am a PhD student at Department of Electrical Engineering and Information Technology at [ETH Zurich](https://ethz.ch/en.html), after receiving my M.Sc. in biomedical engineering in the same university. Prior that, I obtained my B.Eng. in microelectronics from [Xi’an Jiaotong University](http://en.xjtu.edu.cn/). My research interests include micro/nano fabrication & packaging, biomedical devices and systems, micro-electro-mechanical systems, sensor interface circuits, etc. I strive to make innovations that can improve the walfare of human and society.
+I am a PhD student at [D-ITET]([https://ideas.ethz.ch](https://ee.ethz.ch/)) at [ETH Zurich](https://ethz.ch/en.html). My research interests include micro/nano fabrication & packaging, biomedical devices and systems, micro-electro-mechanical systems, sensor interface circuits, etc. I strive to make innovations that can improve the walfare of human and society.
 
 [GoogleScholar](https://scholar.google.com/citations?hl=en&user=SiProigAAAAJ) / [ResearchGate](https://www.researchgate.net/profile/Zhikai-Huang) / [ORCID](https://orcid.org/0000-0002-4024-6668) / [LinkedIn](https://www.linkedin.com/in/cnzk/) / [中文版网站](https://huangzhikai.cn/index-cn.html) / [Github](https://github.com/huangzhikaicn/huangzhikaicn.github.io)
 
