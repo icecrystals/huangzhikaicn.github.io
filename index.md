@@ -47,19 +47,25 @@ I am a PhD student at [ETH Zurich](https://ethz.ch/en.html) with research intere
 - Samsung Scholarship (Xi’an Jiaotong University, 2018)
 - Excellent Student Award (Xi’an Jiaotong University, 2017)
 
-### Courses Taken
-- Electronics Cluster
-  - Analog Integrated Circuits
-  - Advanced Analog Integrated Circuits
-  - Energy Efficient Analog Integrated Circuits
-  - Analog Digital Interface Integrated Circuits
-  - Radio Frequency Integrated Cirucits
+### Advanced Courses Taken
  - Microsystem Cluster
    - BioMEMS and BioInstrumentation
    - Microsystem I: Process and Packaging
    - Microsystem II: Device and Applications
    - Bioelectronics and Biosensors
    - Multiphysics Modeling and Simulation  
+- Analog Cluster
+   - Analog Integrated Circuits
+   - Advanced Analog Integrated Circuits
+   - Energy Efficient Analog Integrated Circuits
+   - Analog Digital Interface Integrated Circuits
+   - Radio Frequency Integrated Cirucits
+ - Digital Cluster
+   - VLSI 1: From Architectures to VLSI Circuits and FPGAs
+   - VLSI 2: Design of Very Large Scale Integrated Circuits
+   - Digital Signal Processing
+   - Introduction to Machine Learning
+   - Advanced Machine Learning
 
 ### Hobbies
 Please visit
