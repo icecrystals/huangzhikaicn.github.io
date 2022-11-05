@@ -4,6 +4,11 @@ I am a PhD student at [ETH Zurich](https://ethz.ch/en.html) with research intere
 
 [GoogleScholar](https://scholar.google.com/citations?hl=en&user=SiProigAAAAJ) / [ResearchGate](https://www.researchgate.net/profile/Zhikai-Huang) / [ORCID](https://orcid.org/0000-0002-4024-6668) / [LinkedIn](https://www.linkedin.com/in/cnzk/) / [中文版网站](https://huangzhikai.cn/index-cn.html) / [Github](https://github.com/huangzhikaicn/huangzhikaicn.github.io)
 
+### Employment
+
+- 2022.11-present / Integrated Devices Electronics And Systems (IDEAS) Group, ETH Zürich / Doctoral Student
+- 2020.09-2020.11 / Digital Circuits and Systems Group, ETH Zürich / Research Assistant 
+
 ### News
 
 - 2022.11.01 / I am officially starting my Ph.D. study at Integrated Devices And Systems group at ETH Zurich, advised by Prof. Hua Wang!
