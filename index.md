@@ -6,8 +6,9 @@ I am a PhD student at [ETH Zurich](https://ethz.ch/en.html) with research intere
 
 ### News
 
-- 2022.06.29 My master thesis *A Continuous-Time Input Pipelined SAR ADC with Loop-Embedded Predictive Offset Generation* conducted at Prof. Taekwang Jang's lab received a grade of 5.75/6, the second-highest possible grade at ETH Zurich.
-- 2022.04.28 My co-author paper on event-based digital accelerator is accepted in DATE 2022 and is already online, see [IEEE Xplore](https://ieeexplore.ieee.org/document/9774552/).
+- 2022.11.01 / I am officially starting my Ph.D. study at Integrated Devices And Systems group at ETH Zurich, advised by Prof. Hua Wang!
+- 2022.06.29 / My master thesis *A Continuous-Time Input Pipelined SAR ADC with Loop-Embedded Predictive Offset Generation* conducted at Prof. Taekwang Jang's lab received a grade of 5.75/6, the second-highest possible grade at ETH Zurich.
+- 2022.04.28 / My co-author paper on event-based digital accelerator is accepted in DATE 2022 and is already online, see [IEEE Xplore](https://ieeexplore.ieee.org/document/9774552/).
 
 
 ### Experiences
