@@ -89,3 +89,6 @@ Please visit
 [Github Pages (12459xxx..)](https://github.com/huangzhikaicn/huangzhikaicn.github.io)
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=365&t=n&d=Tis9kv6Tcc0k1gk9_Pnst9_vrQEZqz_bKSidBzrhin8"></script>
+
+<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+<script>LA.init({id: "JsE1nG9OlmeP5IDa",ck: "JsE1nG9OlmeP5IDa"})</script>
