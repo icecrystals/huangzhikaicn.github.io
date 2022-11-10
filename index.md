@@ -86,7 +86,6 @@ Please visit
 
 ---
 
-[Github Pages (12459xxx..)](https://github.com/huangzhikaicn/huangzhikaicn.github.io)
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=365&t=n&d=Tis9kv6Tcc0k1gk9_Pnst9_vrQEZqz_bKSidBzrhin8"></script>
 
