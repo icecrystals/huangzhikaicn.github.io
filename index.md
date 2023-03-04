@@ -65,9 +65,4 @@ Please visit
 
 
 ---
-
-
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=365&t=n&d=Tis9kv6Tcc0k1gk9_Pnst9_vrQEZqz_bKSidBzrhin8"></script>
-
-<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
-<script>LA.init({id: "JsE1nG9OlmeP5IDa",ck: "JsE1nG9OlmeP5IDa"})</script>
+<a href="https://info.flagcounter.com/Nb77"><img src="https://s11.flagcounter.com/count2/Nb77/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
